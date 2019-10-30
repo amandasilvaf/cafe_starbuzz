@@ -1,0 +1,59 @@
+*{
+    margin: 10px;
+}
+.imagens {
+    width: 250px;
+    height: 180px;
+
+}
+
+.coluna {
+    float: left;
+    margin: 12px;
+    
+    
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+.center{
+    text-align: center;
+
+}
+
+.row{
+    margin-top: 90px;
+
+}
+
+.imagemcafe{
+    text-align: center;
+   
+}
+
+.imagemcafe img{
+    width: 300px;
+    height: 200px;
+}
+
+
+.paragrafo{
+    margin-left: 40px;
+}
+
+.botao{
+    color:white;
+    background-color: #492e26;
+    border-radius: 30px;
+}
+
+img{
+    border-radius: 30px;
+
+}
+
+.cardapio{
+    margin-top: 45px;
+}
